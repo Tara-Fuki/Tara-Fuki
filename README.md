@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tara-Fuki
 - 👀 I’m interested in C#, Kotlin
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Kotlin
+- 💞️ I’m looking to collaborate on C#
 - 📫 How to reach me: Tarafukie@gmail.com
 
 <!---
